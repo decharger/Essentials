@@ -1,0 +1,9 @@
+(Lix End)
+sudo git config --global user.name "decharger"
+sudo git config --global user.email "la.decharger@gmail.com"
+Git clone https://github.com/decharger/Huhumb.git
+git add test.txt
+git commit -m "first"
+sudo git push
+Username for 'https://github.com': decharger
+Password for 'https://decharger@github.com':
