@@ -34,3 +34,57 @@ Sun Cluster 3.2, VERITAS Netbackup 6.0, VERITAS Storage Foundation Suite, Solari
 
 Web Technologies
 Lotus Domino 5 / 6, Apache 2.0, Weblogic 8.1/10, WebSphere, JBoss, IPlanet, IIS, HIS.
+
+Skills:
+
+Setup and maintained NFS, NIS, and TCP/IP network, configured the systems for TCP/IP Networking with the existing LAN, setting up SSH and SCP features between SUN systems and other Red Hat/UNIX hosts.
+Maintained network and data security, maintained security compliance policies on the OS for SOX and internal audits.
+Installed and configured VMware ESX server instances for virtual server setup and deployment. Responsible for creating VMware virtual guests running Solaris, Linux, Windows.
+Integrated the Linux environment with Active Directory providing a Single Sign On (SSO) solution.
+Using rsyslog & mysql, deployed a custom syslog reporting solution for system alerts and notifications.
+Deployed Redhat Satellite Server with custom repositories to provide a stable management solution for the Linux environment.
+Installed, maintained and finetuned the Apache-Tomcat serverand Websphere Application Server in Linux Platform
+Created Bash/Korn shell scripts to monitor system resources and system maintenance.
+Wrote Perl and Python scripts to generate statistics and monitor processes.
+Deployed Active/Active MySQL clusters using Redhat Cluster Suite for supporting internal applications built on the LAMP stack.
+Automated system management tasks like user account creation, file system size monitoring, monitor system resources and system maintenance using Shell, and Perl scripts.
+Installed, configured & upgraded Websphere and provided extensive support in code deploy, change management and application level troubleshooting for the Dev, Test, Pre-Prod & Production environment. Deployed applications (EAR/WAR) files on multiple Servers/Clusters and maintained Load balancing.
+Worked with DBAs on installation of Oracle database, RDBMS database, restoration and log generation. Perform security patching of Linux servers
+Environment: Red Hat Enterprise Linux 4.x,5.x, Sun Solaris 8,9,10, VERITAS Cluster Server, Veritas Volume Manager, Oracle 11G, HP UX, IBM AIX, HP Proliant DL 385, 585 Weblogic, Oracle RAC/ASM, MS Windows 2003 server.
+Decommissioning of the old servers and keeping track or decommissioned and new servers using inventory list.
+Monitored System Activities like CPU, Memory, Disk and Swap space usage to avoid any performance issues.
+Software package and patch administration, involving adding and removing software packages and updating patches
+Handling problems or requirements as per the ticket (Request Tracker) created.
+Configuration and administration of LDAP, NFS and NIS in Linux and also implemented Samba for sharing of resources between Linux and Windows environments.
+
+Environment: Sun Solaris 10/9/8, Linux 5/4/3, Oracle 10g, SUN Servers, SUN Fires, Linux, Jump Start, Shell Script, Autosys, Veritas Volume Manager (VVM), LDAP, EMC Storage SAN, Veritas Cluster Server (VCS), VMware servers, jboss,Websphere.
+
+Installation, configuration, support and security implementation on following services:DHCP, SSH, SCP.
+Configuration and administration of NFS and Samba in Linux and Solaris.
+Maintained and monitored all of company\'s servers' operating system and application patch level, disk space and memory usage, user activities on day-to-day basis.
+
+Installations of HP Open view, monitoring tool, in more than 300 servers.
+Attended calls related to customer queries and complaints, offered solutions to them.
+Worked with monitoring tools such as Nagios and HP Openview.
+
+Responsible for setting cron jobs on the servers.
+Decommissioning of the old servers and keeping track or decommissioned and new servers using inventory list.
+Handling problems or requirements as per the ticket (Request Tracker) created.
+Participated in on-call rotation to provide 24X7 technical supports.
+Configuration and troubleshooting - LAN and TCP/IP issues.
+Environment: Red Hat Enterprise Linux 4.x, 5.x, Sun Solaris 8, 9, 10, VERITAS Volume Manager, Oracle 11G, Samba, Oracle 
+
+Creation of VMs, cloning and migrations of the VMs on VMware vSphere 4.0.
+Worked with DBA team for database performance issues, network related issue on Linux / Unix Servers and with vendors for hardware related issues.
+
+Perform hardware configuration, operating system loads, and assist with troubleshooting installation issues.
+
+Develop and maintain cooperative and collaborative relationships with networking, storage, software development, and project management teams
+Monitor production systems, applications and network performance through the use of various Network Management and Application Monitoring Tools
+Develop tools/scripts to automate integration with other IT tools in support of accurate asset management, cyber reporting capabilities and to manage licenses
+Work with software developers and Quality Assurance to seamlessly migrate applications from development to QA and production
+Provides support to customers running RedHat Enterprise Linux on their workstations and simulation servers
+Indentify and drive continual improvement program in UNIX environment and improve the service efficiency
+Working closely with other IT departments to help determine and develop systems that will be implemented
+EDUCATION
+
