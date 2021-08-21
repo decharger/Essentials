@@ -1,0 +1,283 @@
+sudo mount -t nfs 172.16.133.5:/ApolloBackup/Glpi /opt/Dumped/ -vv
+sudo mount -t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/test /opt/Dumped/ -vv
+sudo mount -t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+sudo mount -t nfs -O  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+sudo mount -t nfs -O  172.16.133.5:/ApolloBackup/Glpi /opt/Dumped/ -vv
+sudo mount -t nfs 172.16.133.5:/ApolloBackup/Glpi /opt/Dumped/ -vv
+sudo mount  172.16.133.5:/ApolloBackup/Glpi /opt/Dumped/ -vv
+   1  ls -al
+    2  ./scr.sh
+    3  cd /opt/Dumped/
+    4  cd ..
+    5  vim scr.sh
+    6  ./scr.sh
+    7  vim scr.sh
+    8  ./scr.sh
+    9  #mysqldump -u root -papollo@123
+   10  vim scr.sh
+   11  ./scr.sh
+   12  vim scr.sh
+   13  ./scr.sh
+   14  cd Dumped/
+   15  ls -al
+   16  mount -t smbfs \\172.16.133.5\ApolloBackUp\Glpi
+   17  mount -t smbfs \\172.16.133.5\ApolloBackUp
+   18  vi  /etc/fstab
+   19  mount -t smbfs \\172.16.133.5\ApolloBackUp
+   20  history
+   21  sudo mount -o rw,vers=2 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+   22   mount -o rw,vers=2 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+   23   mount  172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+   24  # mount  172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+   25  mount -t smbfs //172.16.133.5/ApolloBackUp /opt/Dumped/
+   26  mount -t smbfs //172.16.133.5/ApolloBackUp /opt/Dumped/ -vv
+   27  smbmount //172.16.133.5/ApolloBackUp /opt/Dumped/ -vv
+   28  smbmount //172.16.133.5/ApolloBackUp /opt/Dumped/
+   29  sudo yum install samba samba-client
+   30  systemctl status smb
+   31  systemctl status smb-client
+   32  systemctl status smb.services
+   33  systemctl status smb.service
+   34  systemctl start smb.service
+   35  mount -t smbfs //172.16.133.5/ApolloBackUp /opt/Dumped/ -vv
+   36  smbmount //172.16.133.5/ApolloBackUp /opt/Dumped/ -vv
+   37  service status smb
+   38  systemctl status smb
+   39  mount -o tcp 172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+   40  vi /etc/fstab
+   41  vim /etc/fstab
+   42  mount -o tcp 172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+   43  vi /etc/rc.local
+   44  ls -al
+   45  cd /etc/init.d/
+   46  showmount
+   47  showmount -e 172.16.133.5
+   48  mount -t nfs  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+   49  cat /etc/passwd | grep nfs
+   50  cat /etc/passwd | grep nfs-
+   51  systemctl status nfs-server
+   52  systemctl status rpcbind
+   53  chmod 777 /opt/Dumped/
+   54  mount -t nfs  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+   55  mount
+   56  systemctl status nfs-lock
+   57  systemctl status nfs-idmap
+   58  systemctl status nfs-client
+   59  reboot
+   60  ip rl
+   61  ip r l
+   62  vim /etc/idmapd.conf
+   63  mount -t nfs  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+   64  mount   172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+   65  sudo mount   172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+   66  df -hT
+   67  df -ah
+   68  df -hT
+   69  sudo mount 172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+   70  sudo mount 172.16.133.5:/ApolloBackUp/Glpi /opt/Dumped/ -vv
+   71  sudo mount -t nfs 172.16.133.5:/ApolloBackUp/Glpi /opt/Dumped/ -vv
+   72  sudo mount -t nfs -o vers=3 172.16.133.5:/ApolloBackUp/Glpi /opt/Dumped/ -vv
+   73  sudo mount -t nfs -o vers=3 172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+   74  sudo mount -t nfs -o vers=3 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+   75  sudo mount -t nfs -o vers=4 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+   76  sudo mount -t nfs -o vers=2 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+   77  sudo mount -t nfs -o vers=1 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+   78  sudo mount -t nfs -o vers=4 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+   79  sudo mount -t nfs -o vers=5 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+   80  sudo mount -t nfs -o vers=3 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+   81  vi /etc/fstab
+   82  sudo mount -t nfs -o vers=3 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+   83  vi /etc/fstab
+   84  reboot
+   85  vim /etc/fstab
+   86  mount -t nfs  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+   87  sudo mount  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+   88  yum install nfs-utils-lib
+   89  vim /etc/exports.d/
+   90  cd /etc/exports.d/
+   91  ls -al
+   92  cd //
+   93  cd ~
+   94  sudo vi /etc/exports
+   95  sudo mount  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+   96  sudo vi /etc/exports
+   97  rm -fr /etc/exports
+   98  cd /etc/exports.d/
+   99  ls -al
+  100  showmount -e 172.16.200.49
+  101  showmount -e 172.16.200.48
+  102  showmount -e 172.16.133.5
+  103  sudo mount  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+  104  sudo mount -t nfs -o vers=3 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  105  ls -al
+  106  sf -Th
+  107  dsf -Th
+  108  df -Th
+  109  sudo umount -t nfs -o vers=3 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  110  sudo unmount -t nfs -o vers=3 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  111  sudo umount -t nfs -o vers=3 172.16.133.5:/ApolloBackUp/
+  112  sudo umount 172.16.133.5:/ApolloBackUp/
+  113  df -ht
+  114  df -hT
+  115  sudo umount 172.16.133.5:/Public
+  116  ls -al
+  117  df -hT
+  118  sudo unmount -t nfs -o vers=3 172.16.133.5:/Usb/ /opt/Dumped/ -vv
+  119  sudo mount -t nfs -o vers=3 172.16.133.5:/Usb/ /opt/Dumped/ -vv
+  120  sudo mount -t nfs -o vers=3 172.16.133.5:/nwadmin /opt/Dumped/ -vv
+  121  sudo mount -t nfs -o vers=3 172.16.133.5:/web /opt/Dumped/ -vv
+  122  sudo mount -t nfs -o vers=3 172.16.133.5:/Download/opt/Dumped/ -vv
+  123  sudo mount -t nfs -o vers=3 172.16.133.5:/Download /opt/Dumped/ -vv
+  124  sudo mount -t nfs -o vers=3 172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+  125  sudo mount -t nfs -o version=3,username=admin,password=Apollo@849 172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+  126  sudo mount -t nfs -o version=3,username=admin,password=Apollo@840 172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+  127  sudo mount -t nfs -o version=3 172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+  128  sudo mount -t nfs -o version=3 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  129  sudo mount -t nfs -o version=3 172.16.133.5:/ApolloBackUp/Glpi /opt/Dumped/ -vv
+  130  sudo mount -t nfs -o version=3 172.16.133.5:ApolloBackUp/Glpi /opt/Dumped/ -vv
+  131  history
+  132  systemctl status smb-client
+  133  sudo mount -o rw,vers=2 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  134  sudo mount -o rw,vers=3 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  135  sudo mount -o rw,vers=3,username=admin,password=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  136  sudo mount -o vers=3,username=admin,password=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  137  sudo mount -o vers=3 username=admin,password=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  138  sudo mount -o vers=3  172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  139  sudo mount -o vers=3  -u:admin,-p:Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  140  sudo mount -o vers=3  -u:admin -p:Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  141  sudo mount -o   -u:admin -p:Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  142  sudo mount  -u:admin -p:Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  143  sudo mount  -U:admin -P:Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  144  sudo mount -O vers=3,username=admin,password=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  145  sudo mount -O username=admin,password=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  146  sudo mount -t nfs -O username=admin,password=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  147  sudo mount -t nfs -O vers=3,username=admin,password=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  148  sudo mount -t nfs -O vers=4,username=admin,password=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  149  sudo mount -t nfs -O vers=4.1,username=admin,password=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/  -vv
+  150  sudo mount -t nfs -O vers=4.1,username=admin,password=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/
+  151  telent 172.16.133.5 2049
+  152  yum install net-tools -y
+  153  telent 172.16.133.5 2049
+  154  ip r l
+  155  yum install telnet -y
+  156  yum install telnetd -y
+  157  df -Th
+  158  cd /opt/Dumped/
+  159  sudo mount -t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/
+  160  mount.nfs-t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/
+  161  mount.nfs -t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/
+  162  mount.nfs4 -t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/
+  163  mount.nfs4 -O user=admin,pass=Apollo@890 172.16.133.5:/ApolloBackup /opt/Dumped/
+  164  mount.nfs4  172.16.133.5:/ApolloBackup /opt/Dumped/
+  165  mount.nfs  172.16.133.5:/ApolloBackup /opt/Dumped/
+  166  mount.nfs  172.16.133.5:/ApolloBackup /opt/Dumped/ -o user=admin
+  167  mount.nfs  172.16.133.5:/ApolloBackup /opt/Dumped/ -o user=admin,pass=Apollo@890
+  168  mount.nfs  172.16.133.5:/ApolloBackup /opt/Dumped/ -o user=admin pass=Apollo@890
+  169  sudo mount -t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/test /opt/Dumped/
+  170  sudo mount -t nfs -O vers=3 172.16.133.5:/test /opt/Dumped/
+  171  sudo mount -t nfs -O vers=3 172.16.133.5:/test /opt/Dumped/ -vv
+  172  sudo mount -t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/test /opt/Dumped/ -vv
+  173  sudo mount -t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/Web /opt/Dumped/ -vv
+  174  scp -i ~/.ssh/my-ssh-key username@ip-address:remote-file-path local-file-path
+  175  #scp -i  root@172.16.200.48:\opt  \opt
+  176  pwd
+  177  #scp -i  root@172.16.200.48:\opt  a.sql
+  178  scp -i  root@172.16.200.48:\opt  a.sql
+  179  sudo mount -t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/public /opt/Dumped/ -vv
+  180  df -tH
+  181  df -hT
+  182  sudo mount -t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/Public /opt/Dumped/ -vv
+  183  df -hT
+  184  cd /opt/Dumped/
+  185  ls -al
+  186  cd /opt/
+  187  cd Dumped/
+  188  ls -al
+  189  cd /opt/
+  190  ls -al
+  191  mv .glpi.backup.sql /opt/Dumped/
+  192  cd Dumped/
+  193  ls -al
+  194  df -hT
+  195  cp .glpi.backup.sql 172.16.133.5:/public
+  196  ls -al
+  197  cd 172.16.133.5:/public
+  198  cd 172.16.133.5
+  199  cd public
+  200  nfs
+  201  sudo mount  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+  202  sudo mount version=3  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+  203  #sudo mount version=3  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+  204  cd /opt/Dumped/
+  205  sudo mount version=3  172.16.133.5:/ApolloBackUp/Glpi /opt/Dumped/ -vv
+  206  sudo mount   172.16.133.5:/ApolloBackUp/Glpi /opt/Dumped/ -vv
+  207  sudo mount -o username=admin password=Apollo@890  172.16.133.5:/ApolloBackUp/Glpi /opt/Dumped/ -vv
+  208  sudo mount -o username=admin,password=Apollo@890  172.16.133.5:/ApolloBackUp/Glpi /opt/Dumped/ -vv
+  209  sudo mount - username=admin,password=Apollo@890  172.16.133.5:/ApolloBackUp/Glpi /opt/Dumped/ -vv
+  210  sudo mount username=admin,password=Apollo@890  172.16.133.5:/ApolloBackUp/Glpi /opt/Dumped/ -vv
+  211  sudo mount username=admin,password=Apollo@890  172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  212  sudo mount -o username=admin,password=Apollo@890  172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  213  sudo mount -o username=admin,password=Apollo@890  172.16.133.5:/ApolloBackUp// /opt/Dumped/ -vv
+  214  sudo mount -o username=admin,password=Apollo@890  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+  215  sudo mount -o username=admin,password=Apollo@890  172.16.133.5://ApolloBackUp /opt/Dumped/ -vv
+  216  sudo mount -o username=admin,password=Apollo@890  172.16.133.5:/ApolloBackUp/Glpi /opt/Dumped/ -vv
+  217  history
+  218  sudo mount -t nfs -o vers=3 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  219  sudo mount -t nfs -o vers=3 username:admin password=Apollo@890 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  220  sudo mount -t nfs -o vers=3 username:admin,password=Apollo@890 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  221  sudo mount -t nfs -o vers=3 username=admin,password=Apollo@890 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  222  sudo mount -t nfs username=admin,password=Apollo@890 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  223  sudo mount -t nfs -o vers=3,username=admin,password=Apollo@890 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  224  df -tH
+  225  sudo mount -t nfs -o vers=3,username=admin,password=Apollo@890 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  226  sudo mount -t nfs -o vers=3,username=admin,password=Apollo@890 172.16.133.5:/ApolloBackUp/Glpi /opt/Dumped/ -vv
+  227   mount -t nfs -o vers=3,username=admin,password=Apollo@890 172.16.133.5:/ApolloBackUp/Glpi /opt/Dumped/ -vv
+  228  mount  -t nfs -o vers=3,username=admin,password=Apollo@890 172.16.133.5:/ApolloBackUp/Glpi /opt/Dumped/ -vv
+  229  mount  -t nfs -o vers=3,username=admin,password=Apollo@890 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  230  mount  -t nfs -o version=3 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  231  mount -t nfs  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+  232  mount -t nfs -o version=3  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+  233  sudo mount -t nfs -o version=3  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+  234  sudo mount -t nfs -o version=2  172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv
+  235  history
+  236  sudo mount -t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/Public /opt/Dumped/ -vv
+  237  cp .glpi.backup.sql 172.16.133.5:/public
+  238  history
+  239  cp Zabbix.sql \\172.16.133.5\ApolloBackUp\Glpi
+  240  cd /opt/
+  241  cd Dumped/
+  242  vim a.txt
+  243  cp a.txt  \\172.16.133.5\Public
+  244  rm -fr a.txt
+  245  ls -al
+  246  sudo umount 172.16.133.5:/Public
+  247   umount 172.16.133.5:/Public
+  248  df -hT
+  249  ls -al
+  250   umount 172.16.133.5:/public
+  251  df -hT
+  252   umount 172.16.133.5:/public
+  253   umount 172.16.133.5:/public /opt/Dumped/
+  254  history | grep umount
+  255  sudo umount -t nfs -o vers=3 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  256  sudo umount -t nfs -o 172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  257  sudo umount -t nfs  172.16.133.5:/ApolloBackUp/ /opt/Dumped/ -vv
+  258  sudo umount -t nfs  172.16.133.5:/public/ /opt/Dumped/ -vv
+  259  sudo umount -t nfs  172.16.133.5:/public/
+  260  cd /opt/
+  261  sudo umount -t nfs  172.16.133.5:/public/
+  262  df -hT
+  263  sudo mount -t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/Public /opt/Dumped/ -vv
+  264  df -tH
+  265  df -hT
+  266  sudo umount -t nfs  172.16.133.5:/public/
+  267  sudo umount -t nfs  172.16.133.5:/public
+  268   umount -t nfs  172.16.133.5:/public
+  269  df -hR
+  270  df -hT
+  271   umount -t nfs  172.16.133.5:/public
+  272  df -hT
+  273  sudo umount -t nfs  172.16.133.5:/public/
+  274  sudo umount -t nfs  172.16.133.5:/public
+  275  sudo umount -t nfs  172.16.133.5:/Public
+
