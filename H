@@ -1,0 +1,272 @@
+and Conditions
+
+
+
+
+
+
+
+The facility of Foreign Outward Remittance through NetBanking being offered by HDFC Bank Limited is subject to the following terms and conditions. The users of this facility are requested to read and confirm their acceptance of the same before proceeding to use this facility -
+
+
+
+
+
+1.  Compliance with FEMA, 1999 - The user may please note that a foreign outward remittance from India involves drawl of foreign exchange by the user from HDFC Bank, and the same is subject to the provisions of Foreign Exchange Management Act (FEMA), 1999. The user may also note that, as per provisions of the said Act, it is his responsibility to ensure that the transaction is in compliance with the provisions of the said Act, and any rules, regulations, guidelines and notifications issued under the said Act. Any contravention of the same may invite penal action by competent authority under provisions of the said Act.
+
+
+
+2. Declaration Under Liberalised Remittance Scheme (RBI) - The facility of foreign outward remittance through Netbanking is being offered by HDFC Bank to Resident Individuals only who are eligible to draw foreign exchange under Liberalised Remittance Scheme of Reserve Bank of India, within the provisions of Foreign Exchange Management Act, 1999.
+
+
+
+          By accepting these terms and conditions, the user hereby confirms and declares as under:
+
+
+
+  1.  The remitter (i.e. the user) is an individual Resident in India as defined in Foreign Exchange Management Act  (FEMA), 1999, and eligible to draw foreign exchange under provisions of Liberalised Remittance Scheme (LRS) as notified by Reserve Bank of India.
+
+
+
+  2.  The total amount of foreign exchange drawn by the user from all sources during the current financial year,  including the present transaction, does not exceed USD 250,000 or equivalent.
+
+
+
+  3.  The beneficiary is a person Resident outside India as defined in Foreign Exchange Management Act (FEMA), 1999, for all purposes except for remittance to own account abroad.
+
+
+
+  4.  The remittance does not constitute a transaction listed in Schedule I or Schedule II of Foreign Exchange  Management (Current Account Transactions) Rules, 2000, as amended from time to time
+
+
+
+ 5.  The remittance does not constitute any of the following:
+
+
+
+                  1.  Remittance out of lottery winnings
+
+
+                  2.  Remittance of income from racing/riding etc. or any other hobby
+
+
+
+                  3.   Remittance for purchase of lottery tickets, banned / proscribed magazines, football pools,  sweepstakes, etc.
+
+
+
+                  4.  Payment of commission on exports made towards equity investment in Joint Ventures / Wholly  Owned Subsidiaries abroad of Indian companies.
+
+
+
+                  5.  Remittance of dividend by any company to which the requirement of dividend balancing is applicable
+
+
+
+                 6.  Payment of commission on exports under Rupee State Credit Route, except commission up to 10%  of   invoice value of exports of tea and tobacco
+
+
+
+                 7.  Payment related to "Call Back Services" of telephones
+
+
+
+                  8.  Remittance of interest income on funds held in Non-Resident Special Rupee (Account) Scheme
+
+
+
+
+
+  6.  The remitter (i.e. the user) himself/herself is not a holder in the beneficiary account to which the remittance is  being made,  except for remittances sent under the purpose of "Remittance to own account abroad".
+
+
+
+  7.  In case of remittance being made for the purpose of Family Maintenance, the beneficiary is a close relative of  the remitter (i.e.  the user) as defined in Companies Act, 2013, and is not Resident in India.
+
+
+
+ 8.  The remittance is not intended and will not be used for trading in foreign currency, or, dealing in Bitcoins or any  other virtual currency.
+
+
+
+  9.  The remittance is not intended and will not be used for any purpose that is prohibited or restricted under the Foreign Exchange Management Act, 1999 or any rules, regulations or guidelines issued under the said Act.
+
+
+
+10.  In compliance to extant regulatory guidelines, the LRS limit utilisation and TCS reporting will be done against the PAN of                the customer placing the request online (irrespective of the debit account's holding pattern),
+
+
+
+If anyone of the above conditions is not being met, the user is strictly advised to not accept these Terms and Conditions and may please logout. (Remittances not complying with the above conditions, if otherwise permissible within the applicable provisions, can be processed through our nearest branch).
+Please note any wrong declaration made here amounts to willful contravention of the provisions of Foreign Exchange Management Act, 1999, and may invite penal action accordingly.
+Please also note that the bank may initiate closure of your account held with us without prior notice and report the matter to Reserve Bank of India (RBI), if the banks finds at any point of time that you have made a wrongful declaration here.
+
+
+
+3.  Beneficiary Details - It is the responsibility of the user to double check and ensure correctness of the details of the Beneficiary Bank, Intermediary Bank (i.e. SWIFT Code, ABA No., CHIP UID and IBAN No.) and Beneficiary's Account No. The users must note that it is not possible for HDFC Bank to cross-check/verify these details and any error, inadvertent or otherwise, in providing these details by the user can lead funds getting credited to a wrong Bank / Account in foreign lands. It will not be possible for HDFC Bank to recall / retrieve the funds in such situation and may cause a financial loss to the user.  HDFC Bank will not be responsible for any loss arising to the user due to such errors.
+
+
+
+
+
+4.  Amount of Remittance - The facility of Foreign Outward Remittance through Netbanking is currently subject to the following limits on the amount of remittance -
+
+
+
+Minimum Amount Per Transaction - USD 100 or equivalent
+Maximum Amount Per Transaction - USD 25,000 or equivalent
+Maximum No. of Transactions per day - No maximum cap on no. of transactions per day
+
+Maximum amount of transactions that can be processed PER DAY through RemitNow – USD 25,000 or equivalent
+
+
+
+5.  Processing Time - The request for foreign outward remittance submitted through this facility will be checked and processed by HDFC Bank at the earliest but may take up to the end of next working day for foreign exchange transactions ('working day' as per FEDAI rules).
+
+
+
+6.  Rejections - The request for foreign outward remittance submitted through this facility may be rejected by the Bank if the same is found to be non-compliant with extant RBI regulations issued under Foreign Exchange Management Act, 1999 (FEMA), international restrictions applicable to such remittances (if any), incomplete / incorrect beneficiary bank details, insufficient funds in the account or any other such reason.
+
+
+
+7.  Exchange Rate - The exchange rates which can be seen by the customer in the Netbanking module at the time of submitting the request are indicative rates only and the same may change before the customer request is processed. The applicable exchange rate will be the TT Selling Rate as last published on the Bank's website at the time of debit to the customer's account.
+
+
+
+8.   Commission & Charges - Following charges will be levied by HDFC Bank for this transaction-
+
+
+
+   Commission @ Rs, 500 +GST per transaction for remittances upto USD 500 or equivalent
+   Commission @ Rs, 1,000 +GST per transaction for remittances above USD 500 or equivalent
+   GST on amount of foreign currency exchanged (details provided under Fees & Charges section) 
+   Tax Collected at Source (TCS) shall be applicable on all forex drawls under LRS as per Government notification. 
+   All taxes and levies as per applicable Government notification.     
+
+
+To know more about the Commission, Charges and GST applicable on Foreign Exchange transactions, please  CLICK HERE.
+
+
+
+
+
+9.   Debit Authority - By accepting these terms & conditions, the user hereby irrevocably authorizes HDFC Bank Limited to debit his/her account with the amount of remittance converted into Indian Rupees at the exchange rate as detailed above and with the amount of commission and charges as detailed above.
+
+
+
+10.  Availability of Funds - User should ensure to maintain adequate clear balance in his/her account to enable the above debit. The transaction will be rejected in case of unavailability of sufficient clear funds in the account.
+
+
+
+11.  Deductions by Foreign Banks - User should note that the foreign bank(s) involved in routing of the transaction, may deduct their charges from the amount of remittance, as per applicable rules and regulations of the respective country/bank, excluding transactions processed under Full value facility. In such a situation, the beneficiary may not get the full amount remitted from India. HDFC Bank does not have any control on such deductions. The user is advised to check with the beneficiary in advance of applicable charges in the destination/routing country(ies)/bank(s) and keep adequate margin in the amount of remittance to ensure the required amount reaches the beneficiary
+
+
+
+12.  Charges Claimed by Foreign Banks - In certain instances, the foreign bank(s) may claim their charges from HDFC Bank Ltd, subsequently, as per applicable rules and regulations of the respective country. By accepting these terms and conditions, the user hereby irrevocably authorizes HDFC Bank to debit the amount of such charges to his/her account as and when such claim is received.
+
+
+
+13.  Delay or Withholding of Funds by Foreign Banks - Customer agree that, in the event of the remittance getting delayed or withheld at the foreign bank(s), for any reason whatsoever, they shall have no claim against HDFC Bank for such delay or withholding of funds.
+
+
+
+14.  Declaration and Indemnity - Customer hereby confirm and undertake that the above foreign outward remittance being requested by them is fully compliant with Foreign Exchange Management Act, 1999, in all respects. Customer agree that HDFC Bank Ltd is undertaking this transaction in good faith based on their declarations and they indemnify the Bank for against any claims or damages that may arise in case of any violation.
+
+
+
+15.  Confidentiality of Credentials - Customer will be solely and absolutely responsible for the confidentiality of the account credentials which includes, but not limited to, customer id, password etc. and will be fully responsible for all transactions processed through the customer's credentials, including any unauthorized use or misuse of such account credentials by entities other than the customer. Customer agrees absolutely that HDFC Bank will not be held responsible for any such loss and also undertakes to indemnify HDFC Bank against any liability, claims, damages etc. on account of such unauthorized use or misuse of customer's account.
+
+
+
+16.  Alerts - HDFC Bank shall endeavor to ensure that alerts are communicated to the customers for the actions / transactions initiated by the customer in Foreign Outward Remittance - NetBanking facility. However, customer agrees that HDFC Bank will not be held responsible or liable for any costs, loss, damage etc. due to delay in dispatch of non-dispatch of such alerts (or) delayed receipt or non-receipt of such alerts for whatsoever reason.
+
+
+
+17.  All other Terms and Conditions applicable to the use of Netbanking facility as well as use of Third Party Funds Transfer facility thereunder apply equally to use of Foreign Outward Remittance facility through Netbanking
+
+
+
+
+
+
+
+By virtue of continuing to access and use this facility, you are agreeing to the Terms & Conditions in effect. If you do not wish to accept any of the above Terms and Conditions, please do not continue further and logout.
+
+About Us
+Overview
+Other Stakeholders' Information
+Investor Relations
+News Room
+Corporate Governance
+Careers
+CSR
+Regulatory Disclosures
+Useful Links
+Privacy
+Important Messages
+RBI Kehta Hai
+Quick Links
+Citizen's Charter
+Apply for Credit Card
+Login to NetBanking
+Terms & Conditions
+Website Usage Terms
+Sitemap
+Security
+US Patriot Act Certificate
+Our Corporate commitment
+Resources
+Ways To Bank
+We Care For You
+Rates
+Bank Holiday List
+Glossary
+Watch Videos
+Learning Centre
+Important Notices
+Forms Centre
+Fees & Charges
+Online Services
+Calculators
+Personal Loan EMI Calculator
+Car Loan EMI Calculator
+Two Wheeler EMI Calculator
+Recurring Deposit Calculator
+Fixed Deposit Calculator
+Loans On Credit Card EMI Calculator
+SIP Calculator
+Gold Loan EMI Calculator
+PPF Calculator
+SSY Calculator
+Home Loan Calculator
+Need Help
+FAQs
+Customer Care
+Contact Us
+Use Of Unparliamentary Language By Customers
+Active Channel Partners
+DNC Dedupe
+Locate Us
+Do-Not-Call-Registration
+Connect
+ Facebook
+ Instagram
+ YouTube
+ Twitter
+ Pinterest
+ Linkedin
+HDFC Group Websites
+HDFC Ltd
+HDFC Credila
+HDFC Securities
+HDFC Mutual Fund
+HDFC Realty
+HDFC Life
+HDFC ERGO
+HDFC Pension
+HDB Financial Services
+HDFC Sales
+We use cookies to provide a user-friendly experience. By continuing to browse this site, you agree to the use of cookies. To view our cookie policy, click here
+
+©Copyright HDFC Bank Ltd. Terms and Condition Privacy Policy
+

@@ -1,3 +1,6 @@
+Mount
+
+
 sudo mount -t nfs 172.16.133.5:/ApolloBackup/Glpi /opt/Dumped/ -vv
 sudo mount -t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/test /opt/Dumped/ -vv
 sudo mount -t nfs -O user=admin,pass=Apollo@890 172.16.133.5:/ApolloBackUp /opt/Dumped/ -vv

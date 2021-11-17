@@ -1,2 +1,0 @@
-# Essentials
-Points of Essentials
